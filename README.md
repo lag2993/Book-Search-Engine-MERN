@@ -1,5 +1,5 @@
 # <Book-Search-Engine-MERN>
-A MERN application that allows users to search for books and add them to their profile.
+  
 ## Description
   As a developer I want to design a MERN application for avid readers. Where users can search for new books to read and keep a list of books to purchase. 
   
